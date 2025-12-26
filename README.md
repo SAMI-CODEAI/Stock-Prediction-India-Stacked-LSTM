@@ -45,3 +45,7 @@ This Python project focuses on predicting Indian stock prices using a Stacked Lo
 
 ## Project Output:
 This project provides an in-depth analysis of Indian stock data, from data collection to visualization and model development. It showcases the potential of LSTM neural networks in stock price prediction, with an RMSE benchmark of 25.99. Contributors are encouraged to fine-tune hyperparameters and apply diverse techniques to enhance model performance.
+
+
+rmse
+25.997853047279122
